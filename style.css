@@ -2,10 +2,11 @@
     text-align: center;
 }   
 .div1{
+    text-align: center;
     background-color: rgb(40, 44, 61);
     width:1500px;
     height: 700px;
-    margin: 0 auto;
+    margin: 50px auto;
 }
 body{
     background-color: rgb(16, 27, 38);
