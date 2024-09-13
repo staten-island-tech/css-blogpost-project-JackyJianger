@@ -1,5 +1,6 @@
 .blogtitle{
     text-align: center;
+    color:white;
 }   
 .div1{
     text-align: center;
@@ -7,6 +8,7 @@
     width:1500px;
     height: 700px;
     margin: 50px auto;
+    color:white;
 }
 body{
     background-color: rgb(16, 27, 38);
